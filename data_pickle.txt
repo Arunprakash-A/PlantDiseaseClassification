@@ -1,0 +1,7 @@
+Link to download data in pickle format:
+
+(background subtracted)train data at: 
+https://drive.google.com/open?id=1m39rUu3pXP9HdE2mG0nblUQy1vHtMFM1
+
+(background subtracted)train label at:
+https://drive.google.com/open?id=1-RpptdCUReF-qrSGjt1_yeixF0BQQ22k
