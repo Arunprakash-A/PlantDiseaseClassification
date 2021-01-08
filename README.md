@@ -7,6 +7,6 @@
 Only a subset of classes (specific to the region) in the dataset were considered. 
 # Architecture
 ![alt text](./Output/arch-1.PNG)
-# Ouputs
+# Outputs
 ![alt text](./Output/train_accuracy.PNG)
 ![alt text](./Output/train_loss.PNG)
