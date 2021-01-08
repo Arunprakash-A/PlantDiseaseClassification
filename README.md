@@ -5,6 +5,8 @@
 * You can modify all hyperparameters in main.py to trian from the scratch (i.e., With random initialization of Parameters)
 # Dataset: Plant Village
 Only a subset of classes (specific to the region) in the dataset were considered. 
+# Architecture
+![alt text](./Output/arch-1.PNG)
 # Ouputs
-![alt text](./Output/train_accuracy.PNG)\
+![alt text](./Output/train_accuracy.PNG)
 ![alt text](./Output/train_loss.PNG)
