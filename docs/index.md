@@ -1,4 +1,4 @@
-# PlantDiseaseClassification
+# Plant Disease Classification
 * Building a CNN based classifier to classify regional plant diseases given the plant leaf image. <br>
 * Load the trained weights in to the model to classify the input image. 
 * Ensure the dimension of the image passed to the network is 100x100x3  
