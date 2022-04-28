@@ -7,7 +7,7 @@
 Only a subset of classes (specific to the region) in the dataset were considered. 
 
 * Link to download data (background subtracted) in pickle format
-  * [Dowbload train data](https://drive.google.com/open?id=1m39rUu3pXP9HdE2mG0nblUQy1vHtMFM1) 
+  * [Download train data](https://drive.google.com/open?id=1m39rUu3pXP9HdE2mG0nblUQy1vHtMFM1) 
   * [ Download train label](https://drive.google.com/open?id=1-RpptdCUReF-qrSGjt1_yeixF0BQQ22k)
 
 # Architecture
