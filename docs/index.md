@@ -11,7 +11,7 @@ Only a subset of classes (specific to the region) in the dataset were considered
   * [ Download train label](https://drive.google.com/open?id=1-RpptdCUReF-qrSGjt1_yeixF0BQQ22k)
 
 # Architecture
-![alt text](https://github.com/Arunprakash-A/PlantDiseaseClassification/blob/master/Output/arch-1.PNG)
+![alt text](https://github.com/Arunprakash-A/PlantDiseaseClassification/blob/master/Output/arch-1.PNG?raw=True)
 # Outputs
 ![alt text](https://github.com/Arunprakash-A/PlantDiseaseClassification/Output/train_accuracy.png)
 ![alt text](https://github.com/Arunprakash-A/PlantDiseaseClassification/Output/train_loss.png)
