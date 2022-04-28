@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# PlantDiseaseClassification
+* Building a CNN based classifier to classify regional plant diseases given the plant leaf image. <br>
+* Load the trained weights in to the model to classify the input image. 
+* Ensure the dimension of the image passed to the network is 100x100x3  
+* You can modify all hyperparameters in main.py to trian from the scratch (i.e., With random initialization of Parameters)
+# Dataset: Plant Village
+Only a subset of classes (specific to the region) in the dataset were considered. 
 
-You can use the [editor on GitHub](https://github.com/Arunprakash-A/PlantDiseaseClassification/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+* Link to download data (background subtracted) in pickle format
+* [Dowbload train data](https://drive.google.com/open?id=1m39rUu3pXP9HdE2mG0nblUQy1vHtMFM1) 
+* [ Download train label](https://drive.google.com/open?id=1-RpptdCUReF-qrSGjt1_yeixF0BQQ22k)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Arunprakash-A/PlantDiseaseClassification/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Architecture
+![alt text](./Output/arch-1.PNG)
+# Outputs
+![alt text](./Output/train_accuracy.png)
+![alt text](./Output/train_loss.png)
