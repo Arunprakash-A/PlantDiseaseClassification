@@ -1,3 +1,8 @@
+# Student Contributors
+1. Akash KS
+2. Bharathu Sivakumar
+3. Harnitha
+
 # PlantDiseaseClassification
 * Building a CNN based classifier to classify regional plant diseases given the plant leaf image. <br>
 * Load the trained weights in to the model to classify the input image. 
@@ -16,7 +21,4 @@ Only a subset of classes (specific to the region) in the dataset were considered
 ![alt text](./Output/train_accuracy.png)
 ![alt text](./Output/train_loss.png)
 
-# Student Contributors
-1. Akash KS
-2. Bharathu Sivakumar
-3. Harnitha
+
