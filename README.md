@@ -15,3 +15,8 @@ Only a subset of classes (specific to the region) in the dataset were considered
 # Outputs
 ![alt text](./Output/train_accuracy.png)
 ![alt text](./Output/train_loss.png)
+
+# Student Contributors
+1. Akash KS
+2. Bharathu Sivakumar
+3. Harnitha
